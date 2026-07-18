@@ -4,13 +4,13 @@
   "build": 2,
   "status": "update",
   "size": "57.7 MB",
-  "download": "COLE_AQUI_O_LINK_DO_ZIP",
-  "sha256": "0cefca6d3fcd37cbbc76680d0e1685de119eb1aec7bf5adc3accf2e99610cefd",
+  "download": "https://github.com/miguelelesbaocampos-cmyk/DW99-OTA/archive/refs/tags/Ota.zip",
+  "sha256": "0a071f1bcb63cba2e8ec825c2f03e685facef3948e333b9fe88205fe8ece3ec9",
   "message": "Nova atualização disponível.",
   "releaseDate": "2026-07-18",
   "changelog": [
-    "Primeiro teste do sistema OTA",
-    "Melhorias na estabilidade",
-    "Preparação para instalação automática"
+    "Primeira versão do sistema OTA",
+    "Melhorias de estabilidade",
+    "Correções gerais"
   ]
 }
