@@ -8,7 +8,7 @@
   "sha256": "0a071f1bcb63cba2e8ec825c2f03e685facef3948e333b9fe88205fe8ece3ec9",
   "message": "Nova atualização disponível.",
   "releaseDate": "2026-07-18",
-  "changelog": 
+  "changelog": [
     "Primeira versão do sistema OTA",
     "Melhorias de estabilidade",
     "Correções gerais"
