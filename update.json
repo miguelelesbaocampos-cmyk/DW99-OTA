@@ -1,12 +1,12 @@
 {
   "system": "DW99 OS",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "build": 2,
-  "status": "update",
+  "status": "latest",
   "size": "57.6 MB",
   "download": "https://github.com/miguelelesbaocampos-cmyk/DW99-OTA/releases/download/Ota/DW99_OS_v1.1.zip",
   "sha256": "0a071f1bcb63cba2e8ec825c2f03e685facef3948e333b9fe88205fe8ece3ec9",
-  "message": "Nova atualização disponível.",
+  "message": "✔ Sistema atualizado",
   "releaseDate": "2026-07-18",
   "changelog": [
     "Primeira versão do sistema OTA",
