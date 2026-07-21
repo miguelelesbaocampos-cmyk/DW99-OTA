@@ -1,14 +1,12 @@
 {
   "system": "DW99 OS",
-  "version": "1.1.0",
-  "build": 2,
-  "status": "update",
-  "size": "57.6 MB",
-  "download": "...",
-  "sha256": "...",
-  "message": "Nova atualização disponível.",
+  "version": "1.0.0",
+  "build": 1,
+  "status": "latest",
+  "size": "0 MB",
+  "download": "",
+  "sha256": "",
+  "message": "Seu sistema já está atualizado.",
   "releaseDate": "2026-07-18",
-  "changelog": [
-    "teste"
-  ]
+  "changelog": []
 }
